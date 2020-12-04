@@ -10,3 +10,12 @@ c.	We can use python to access a dataset and then analyze the results to see wha
 a.	Calculating the ROR
 b.	How/where to invest during a pandemic (where to place assets)
 c.	The lows stock market created by covid 19 has given new investors the perfect opportunity to invest in companies that are now on the rise such as: zoom, Netflix and amazon
+git
+
+*beta is stock Regression
+Come up with betas for different companies
+Multiple regression
+Read the regression part of the quant stuff
+Best way to 
+Correlation of deaths and the market or a certain stock
+The narrower you keep it the more I will learn.
