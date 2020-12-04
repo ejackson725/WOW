@@ -19,3 +19,34 @@ Read the regression part of the quant stuff
 Best way to 
 Correlation of deaths and the market or a certain stock
 The narrower you keep it the more I will learn.
+
+#WOW Project
+Ephraim will do:
+How did covid impact company x?
+Get finanical records for companies through 
+get 1 company from three sectors along with the NASDAQ
+API:such as alpha vantage, API FRED 
+get before2019 and present 2020
+get data for all companies in a dataframe
+
+
+data of number of cases and number of deaths in 2020
+Stick with companies that are based in the U.S.
+U.S. covid cases
+
+
+*Graphing covid cases and stock prices overtime*
+time trends of both stock price and covid cases
+
+correlation between covid and stock prices
+group regression
+Ephraim Finance data of the API
+
+
+Adrian will do:
+Find viable API to build a simple model for covid pandemic using python
+	a. retrieve free API from CDC, the WHO, NYT and COVID-19py
+	b. update the relevant information needed containging the varioius factors that will coinside with the financial part of the project 
+	c. Use jupyter notebooks and python to generate the data which we need to be displayed 
+	d. implement chronjob
+
