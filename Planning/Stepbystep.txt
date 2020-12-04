@@ -1,0 +1,12 @@
+Stepbystep
+Check out youtube using python and stock picking
+
+1.	Answer interesting question using Python.
+a.	What is the Financial market impact of the covid 19 pandemic.
+b.	What industries/companies had the highest rate of return during this time
+c.	We can use python to access a dataset and then analyze the results to see what you find
+2.	Exploring cool or interesting functionality of Python that we didn’t cover in class Pyfolio, scypy covidpy these will extract the data and make analysis of stocks and covid related market. We will calculate the rate of return to see which investments would yield a desirable outcome. 
+3.	Apply python to some interesting business problem. 
+a.	Calculating the ROR
+b.	How/where to invest during a pandemic (where to place assets)
+c.	The lows stock market created by covid 19 has given new investors the perfect opportunity to invest in companies that are now on the rise such as: zoom, Netflix and amazon
